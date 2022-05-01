@@ -1,7 +1,7 @@
 # MODULE 9 - SURFS UP ANALYSIS 
 
 # OVERVIEW 
-    The surfs up challenge was here to provide temperature data for a friend who is looking to open up shop in Hawaii.  We were provided with a set of weather data from Hawaii with various data types including precipitation and other but for this analysis we are just looking at temperatures on various dates.  The results show an overview of temperatures for the months of June and December throughout the years.  
+The surfs up challenge was here to provide temperature data for a friend who is looking to open up shop in Hawaii.  We were provided with a set of weather data from Hawaii with various data types including precipitation and other but for this analysis we are just looking at temperatures on various dates.  The results show an overview of temperatures for the months of June and December throughout the years.  
   
 
 # RESULTS
@@ -18,6 +18,6 @@ December Results:
 
 
 # SUMMARY
-    The results of this analysis provide a high level breakdown of temperatures in the month of June and December.  Further review & analysis that would be helpful are graphs that show the spread of temperatues and how the averages/date have changed from year to year.  The further queries in the file provide the same high level breakdown for rain amounts in the months of June and December.  
+The results of this analysis provide a high level breakdown of temperatures in the month of June and December.  Further review & analysis that would be helpful are graphs that show the spread of temperatues and how the averages/date have changed from year to year.  The further queries in the file provide the same high level breakdown for rain amounts in the months of June and December.  
   
 
